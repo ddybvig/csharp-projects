@@ -6,8 +6,8 @@ namespace StringManipulation
     {
         static void Main(string[] args)
         {
-            string a = "poo";
-            string b = "pee";
+            string a = "foo";
+            string b = "bar";
             Console.WriteLine(a + a + b + b);
             Console.ReadLine();
         }
